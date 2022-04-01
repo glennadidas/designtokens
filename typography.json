@@ -1,0 +1,1510 @@
+{
+  "z_do_not_use": { 
+    "gl-body-font-set-functional-1": { 
+      "value": {
+        "description": "HOLA!",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "16px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-body-font-set-functional-2": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Medium",
+        "letterSpacing": "0px",
+        "lineHeight": "16px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-body-font-set-functional-3": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "16px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-body-font-set-functional-4": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "20px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    },
+    "gl-body-font-set-functional-5": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Medium",
+        "letterSpacing": "0px",
+        "lineHeight": "20px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    },
+    "gl-body-font-set-functional-6": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "20px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    },
+    "gl-body-font-set-functional-7": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "16px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "22px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "32px"
+      },
+      "type": "typography"
+    },
+    "gl-body-font-set-functional-8": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "16px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "22px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "32px"
+      },
+      "type": "typography"
+    },
+    "gl-body-font-set-functional-9": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "16px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "22px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "32px"
+      },
+      "type": "typography"
+    },
+    "gl-body-font-set-functional-10": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "18px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "24px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-body-font-set-functional-11": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "18px",
+        "fontWeight": "Medium",
+        "letterSpacing": "0px",
+        "lineHeight": "24px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-body-font-set-functional-12": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "18px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "24px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-body-font-set-functional-13": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "28px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "36px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "56px"
+      },
+      "type": "typography"
+    },
+    "gl-body-font-set-functional-14": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "28px",
+        "fontWeight": "Medium",
+        "letterSpacing": "0px",
+        "lineHeight": "36px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "56px"
+      },
+      "type": "typography"
+    },
+    "gl-body-font-set-functional-15": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "28px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "36px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "56px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-functional-1": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "18px",
+        "fontWeight": "Regular",
+        "letterSpacing": "1px",
+        "lineHeight": "24px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-functional-2": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "18px",
+        "fontWeight": "Bold",
+        "letterSpacing": "1px",
+        "lineHeight": "24px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-standard-3": { 
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO",
+        "fontSize": "18px",
+        "fontWeight": "Regular",
+        "letterSpacing": "1px",
+        "lineHeight": "24px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-standard-4": { 
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO",
+        "fontSize": "18px",
+        "fontWeight": "Bold",
+        "letterSpacing": "1px",
+        "lineHeight": "24px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-expressive-5": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "18px",
+        "fontWeight": "Cn Medium Italic",
+        "letterSpacing": "1px",
+        "lineHeight": "24px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-expressive-6": { 
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO Cond",
+        "fontSize": "18px",
+        "fontWeight": "Bold",
+        "letterSpacing": "1px",
+        "lineHeight": "24px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-functional-7": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "24px",
+        "fontWeight": "Regular",
+        "letterSpacing": "2px",
+        "lineHeight": "28px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-standard-8": { 
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO",
+        "fontSize": "24px",
+        "fontWeight": "Regular",
+        "letterSpacing": "2px",
+        "lineHeight": "28px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-standard-9": { 
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO",
+        "fontSize": "24px",
+        "fontWeight": "Bold",
+        "letterSpacing": "2px",
+        "lineHeight": "28px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-expressive-10": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "24px",
+        "fontWeight": "Cn Medium Italic",
+        "letterSpacing": "2px",
+        "lineHeight": "28px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-expressive-11": { 
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO Cond",
+        "fontSize": "24px",
+        "fontWeight": "Bold",
+        "letterSpacing": "2px",
+        "lineHeight": "28px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-functional-12": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "30px",
+        "fontWeight": "Regular",
+        "letterSpacing": "1.5px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "60px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-standard-13": { 
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO",
+        "fontSize": "30px",
+        "fontWeight": "Regular",
+        "letterSpacing": "1.5px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "60px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-standard-14": { 
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO",
+        "fontSize": "30px",
+        "fontWeight": "Bold",
+        "letterSpacing": "1.5px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "60px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-expressive-15": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "30px",
+        "fontWeight": "Cn Medium Italic",
+        "letterSpacing": "1.5px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "60px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-expressive-16": { 
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO Cond",
+        "fontSize": "30px",
+        "fontWeight": "Bold",
+        "letterSpacing": "1.5px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "60px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-functional-17": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "40px",
+        "fontWeight": "Regular",
+        "letterSpacing": "2px",
+        "lineHeight": "40px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "80px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-standard-18": { 
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO",
+        "fontSize": "40px",
+        "fontWeight": "Regular",
+        "letterSpacing": "2px",
+        "lineHeight": "40px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "80px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-standard-19": { 
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO",
+        "fontSize": "40px",
+        "fontWeight": "Bold",
+        "letterSpacing": "2px",
+        "lineHeight": "40px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "80px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-expressive-20": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "40px",
+        "fontWeight": "Cn Medium Italic",
+        "letterSpacing": "2px",
+        "lineHeight": "40px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "80px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-expressive-21": { 
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO Cond",
+        "fontSize": "40px",
+        "fontWeight": "Bold",
+        "letterSpacing": "2px",
+        "lineHeight": "40px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "80px"
+      },
+      "type": "typography"
+    },
+    "gl-statement-font-set-standard-1": { 
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO",
+        "fontSize": "18px",
+        "fontWeight": "Bold",
+        "letterSpacing": "7px",
+        "lineHeight": "24px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-statement-font-set-standard-2": { 
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO",
+        "fontSize": "18px",
+        "fontWeight": "Regular",
+        "letterSpacing": "7px",
+        "lineHeight": "24px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-statement-font-set-functional-3": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "18px",
+        "fontWeight": "Regular",
+        "letterSpacing": "7px",
+        "lineHeight": "24px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-statement-font-set-standard-4": { 
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO",
+        "fontSize": "36px",
+        "fontWeight": "Bold",
+        "letterSpacing": "7px",
+        "lineHeight": "44px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "72px"
+      },
+      "type": "typography"
+    },
+    "gl-statement-font-set-standard-5": { 
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO",
+        "fontSize": "36px",
+        "fontWeight": "Regular",
+        "letterSpacing": "7px",
+        "lineHeight": "44px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "72px"
+      },
+      "type": "typography"
+    },
+    "gl-statement-font-set-functional-6": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "36px",
+        "fontWeight": "Bold",
+        "letterSpacing": "7px",
+        "lineHeight": "44px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "72px"
+      },
+      "type": "typography"
+    },
+    "gl-statement-font-set-functional-7": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "36px",
+        "fontWeight": "Regular",
+        "letterSpacing": "7px",
+        "lineHeight": "44px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "72px"
+      },
+      "type": "typography"
+    },
+    "gl-statement-font-set-standard-8": { 
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO",
+        "fontSize": "42px",
+        "fontWeight": "Bold",
+        "letterSpacing": "9px",
+        "lineHeight": "50px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "84px"
+      },
+      "type": "typography"
+    },
+    "gl-statement-font-set-standard-9": { 
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO",
+        "fontSize": "42px",
+        "fontWeight": "Regular",
+        "letterSpacing": "9px",
+        "lineHeight": "50px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "84px"
+      },
+      "type": "typography"
+    },
+    "gl-statement-font-set-functional-10": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "42px",
+        "fontWeight": "Bold",
+        "letterSpacing": "9px",
+        "lineHeight": "50px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "84px"
+      },
+      "type": "typography"
+    },
+    "gl-statement-font-set-functional-11": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "42px",
+        "fontWeight": "Regular",
+        "letterSpacing": "9px",
+        "lineHeight": "50px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "84px"
+      },
+      "type": "typography"
+    },
+    "gl-tag-font-set-functional-1": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Bold",
+        "letterSpacing": "2px",
+        "lineHeight": "16px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-tag-font-set-functional-2": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Regular",
+        "letterSpacing": "2px",
+        "lineHeight": "16px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-tag-font-set-functional-3": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Cn Medium Italic",
+        "letterSpacing": "2px",
+        "lineHeight": "16px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-app-heading-font-set-functional-1": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "24px",
+        "fontWeight": "Cn Medium Italic",
+        "letterSpacing": "0px",
+        "lineHeight": "28px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-app-heading-font-set-functional-4": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "24px",
+        "fontWeight": "Medium",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-app-statement-font-set-standard-2": { 
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO",
+        "fontSize": "20px",
+        "fontWeight": "Bold",
+        "letterSpacing": "7px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "40px"
+      },
+      "type": "typography"
+    },
+    "gl-badge-font-set-functional-1": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Italic",
+        "letterSpacing": "0px",
+        "lineHeight": "20px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    },
+    "gl-button-font-set-functional-1": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Bold",
+        "letterSpacing": "2px",
+        "lineHeight": "20px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    },
+    "gl-button-font-set-functional-2": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Bold",
+        "letterSpacing": "2px",
+        "lineHeight": "20px",
+        "textDecoration": "underline",
+        "textCase": "uppercase",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    },
+    "gl-link-font-set-functional-1": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "20px",
+        "textDecoration": "underline",
+        "textCase": "none",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    },
+    "gl-link-font-set-functional-2": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "16px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "22px",
+        "textDecoration": "underline",
+        "textCase": "none",
+        "paragraphSpacing": "32px"
+      },
+      "type": "typography"
+    },
+    "gl-link-font-set-functional-3": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "18px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "24px",
+        "textDecoration": "underline",
+        "textCase": "none",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-app-body-font-set-functional-1": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "16px",
+        "textDecoration": "line-through",
+        "textCase": "none",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-app-body-font-set-functional-2": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "20px",
+        "textDecoration": "line-through",
+        "textCase": "none",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    },
+    "gl-app-body-font-set-functional-3": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "16px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "32px"
+      },
+      "type": "typography"
+    },
+    "gl-app-body-font-set-functional-4": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "16px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "32px"
+      },
+      "type": "typography"
+    },
+    "gl-app-tag-font-set-functional-1": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Regular",
+        "letterSpacing": "1px",
+        "lineHeight": "16px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-app-tag-font-set-functional-2": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Medium",
+        "letterSpacing": "1px",
+        "lineHeight": "16px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-app-tag-font-set-functional-3": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Regular",
+        "letterSpacing": "1px",
+        "lineHeight": "16px",
+        "textDecoration": "line-through",
+        "textCase": "uppercase",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-app-tag-font-set-functional-4": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Regular",
+        "letterSpacing": "1px",
+        "lineHeight": "20px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    },
+    "gl-app-tag-font-set-functional-5": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Medium",
+        "letterSpacing": "1px",
+        "lineHeight": "20px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    },
+    "gl-app-statement-font-set-functional-1": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "18px",
+        "fontWeight": "Medium",
+        "letterSpacing": "2px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-app-statement-font-set-functional-3": { 
+      "value": {
+        "description": "",
+        "fontFamily": "Denton",
+        "fontSize": "18px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "24px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-app-statement-font-set-functional-4": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "24px",
+        "fontWeight": "Medium",
+        "letterSpacing": "2px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-app-statement-font-set-functional-5": { 
+      "value": {
+        "description": "",
+        "fontFamily": "Denton",
+        "fontSize": "24px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-app-statement-font-set-functional-6": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "32px",
+        "fontWeight": "Medium",
+        "letterSpacing": "2px",
+        "lineHeight": "40px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "64px"
+      },
+      "type": "typography"
+    },
+    "gl-app-statement-font-set-expressive-3": { 
+      "value": {
+        "description": "",
+        "fontFamily": "Denton",
+        "fontSize": "18px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "24px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-app-statement-font-set-expressive-5": { 
+      "value": {
+        "description": "",
+        "fontFamily": "Denton",
+        "fontSize": "24px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-app-statement-font-set-expressive-7": { 
+      "value": {
+        "description": "",
+        "fontFamily": "Denton",
+        "fontSize": "32px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "40px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "64px"
+      },
+      "type": "typography"
+    },
+    "gl-app-heading-font-set-functional-2": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "18px",
+        "fontWeight": "Medium",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-app-heading-font-set-expressive-3": { 
+      "value": {
+        "description": "",
+        "fontFamily": "Denton",
+        "fontSize": "18px",
+        "fontWeight": "Medium",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-app-heading-font-set-expressive-4": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "24px",
+        "fontWeight": "Medium",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-app-heading-font-set-expressive-5": { 
+      "value": {
+        "description": "",
+        "fontFamily": "Denton",
+        "fontSize": "24px",
+        "fontWeight": "Medium",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-app-link-font-set-functional-1": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "20px",
+        "textDecoration": "underline",
+        "textCase": "none",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    }
+  },
+  "body": { 
+    "gl-font-set-body-100-regular": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "16px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-body-100-bold": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "16px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-body-100-regular-struck": { 
+      "value": {
+        "description": "DO NOT USE - This token does not apply to this theme",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "16px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-body-200-regular": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "20px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-body-200-bold": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "20px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-body-200-regular-struck": { 
+      "value": {
+        "description": "DO NOT USE - This token does not apply to this theme",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "20px",
+        "textDecoration": "line-through",
+        "textCase": "none",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-body-200-bold-underline": { 
+      "value": {
+        "description": "DO NOT USE - This token does not apply to this theme",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "20px",
+        "textDecoration": "underline",
+        "textCase": "none",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-body-300-regular": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "16px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "32px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-body-300-bold": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "16px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "32px"
+      },
+      "type": "typography"
+    }
+  },
+  "tag": { 
+    "gl-font-set-tag-100-regular": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Regular",
+        "letterSpacing": "1px",
+        "lineHeight": "16px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-tag-100-bold": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Medium",
+        "letterSpacing": "1px",
+        "lineHeight": "16px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-tag-100-regular-italic": { 
+      "value": {
+        "description": "DO NOT USE - This token does not apply to this theme",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Regular",
+        "letterSpacing": "1px",
+        "lineHeight": "16px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-tag-100-regular-struck": { 
+      "value": {
+        "description": "DO NOT USE - This token does not apply to this theme",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Regular",
+        "letterSpacing": "1px",
+        "lineHeight": "16px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-tag-200-regular": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Regular",
+        "letterSpacing": "1px",
+        "lineHeight": "20px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-tag-200-bold": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Medium",
+        "letterSpacing": "1px",
+        "lineHeight": "20px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    }
+  },
+  "statement": { 
+    "gl-font-set-statement-100": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "18px",
+        "fontWeight": "Medium",
+        "letterSpacing": "2px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-statement-100-alternative": { 
+      "value": {
+        "description": "",
+        "fontFamily": "Denton",
+        "fontSize": "18px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "24px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-statement-200": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "24px",
+        "fontWeight": "Medium",
+        "letterSpacing": "2px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-statement-200-alternative": { 
+      "value": {
+        "description": "",
+        "fontFamily": "Denton",
+        "fontSize": "24px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-statement-300": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "32px",
+        "fontWeight": "Medium",
+        "letterSpacing": "2px",
+        "lineHeight": "40px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "64px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-statement-300-alternative": { 
+      "value": {
+        "description": "",
+        "fontFamily": "Denton",
+        "fontSize": "32px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "40px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "64px"
+      },
+      "type": "typography"
+    }
+  },
+  "heading": { 
+    "gl-font-set-heading-100": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "18px",
+        "fontWeight": "Medium",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-heading-100-alternative": { 
+      "value": {
+        "description": "",
+        "fontFamily": "Denton",
+        "fontSize": "18px",
+        "fontWeight": "Medium",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-heading-200": { 
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "24px",
+        "fontWeight": "Medium",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-heading-200-alternative": { 
+      "value": {
+        "description": "",
+        "fontFamily": "Denton",
+        "fontSize": "24px",
+        "fontWeight": "Medium",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-heading-400": { 
+      "value": {
+        "description": "DO NOT USE - This token does not apply to this theme",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "24px",
+        "fontWeight": "Medium",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    }
+  }
+}

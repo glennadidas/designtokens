@@ -1,0 +1,2184 @@
+{
+  "background": {
+    "gl-color-background": {
+      "value": "#000000",
+      "description": "Confirmed default background colour",
+      "type": "color"
+    },
+    "gl-color-background-inverse": {
+      "value": "#000000",
+      "description": "DO NOT USE - This token does not apply to this theme",
+      "type": "color"
+    },
+    "gl-color-background-alternative": {
+      "value": "#161616",
+      "description": "Default card colour on default background",
+      "type": "color"
+    }
+  },
+  "badge": {
+    "gl-app-badge-color-background": {
+      "value": "#0a3cff",
+      "description": "Badge color mainly used for countdowns",
+      "type": "color"
+    },
+    "gl-app-badge-color-background-inverse": {
+      "value": "#a0a0a0",
+      "description": "Badge color for sold out",
+      "type": "color"
+    },
+    "gl-app-badge-color-sale": {
+      "value": "#242424",
+      "description": "Badge color for dates",
+      "type": "color"
+    },
+    "gl-app-badge-color-warning": {
+      "value": "#dd6868",
+      "description": "Badge color for error",
+      "type": "color"
+    }
+  },
+  "border": {
+    "gl-color-border-inverse": {
+      "value": "#242424",
+      "description": "DO NOT USE - This token does not apply to this theme",
+      "type": "color"
+    },
+    "gl-color-border-alternative": {
+      "value": "#242424",
+      "description": "Default border colour on default background",
+      "type": "color"
+    },
+    "gl-color-error-border": {
+      "value": "#dd6868",
+      "description": "Border error colour",
+      "type": "color"
+    }
+  },
+  "callout": {
+    "gl-callout-color-background-veryurgent": {
+      "value": "#242424",
+      "description": "Default callout color on default backgrounds",
+      "type": "color"
+    },
+    "gl-app-callout-color-background-inverse": {
+      "value": "#242424",
+      "description": "DO NOT USE - This token does not apply to this theme",
+      "type": "color"
+    }
+  },
+  "calltoaction": {
+    "gl-app-button-color-background": {
+      "value": "#0a3cff",
+      "description": "Default button color on default backgrounds",
+      "type": "color"
+    },
+    "gl-app-button-color-background-inverse": {
+      "value": "#0a3cff",
+      "description": "DO NOT USE - This token does not apply to this theme",
+      "type": "color"
+    },
+    "gl-app-button-color-background-disabled": {
+      "value": "#6d6d6d",
+      "description": "Disabled button color on default backgrounds",
+      "type": "color"
+    },
+    "gl-app-button-color-background-disabled-inverse": {
+      "value": "#0a3cff",
+      "description": "DO NOT USE - This token does not apply to this theme",
+      "type": "color"
+    },
+    "gl-app-button-color-border": {
+      "value": "#ffffff",
+      "description": "Border at bottom of hyperlinks",
+      "type": "color"
+    },
+    "gl-app-button-color-border-deselected": {
+      "value": "#0a3cff",
+      "description": "DO NOT USE - This token does not apply to this theme",
+      "type": "color"
+    },
+    "gl-app-button-color-border-inverse": {
+      "value": "#000000",
+      "description": "Default border for checkbox and toggles",
+      "type": "color"
+    },
+    "gl-app-button-color-border-deselected-inverse": {
+      "value": "#0a3cff",
+      "description": "DO NOT USE - This token does not apply to this theme",
+      "type": "color"
+    }
+  },
+  "divider": {
+    "gl-app-divider-color": {
+      "value": "#242424",
+      "description": "Default divider color on default backgrounds",
+      "type": "color"
+    },
+    "gl-app-divider-color-inverse": {
+      "value": "#c3c3c3",
+      "description": "Divider colour on inverse background",
+      "type": "color"
+    }
+  },
+  "franchise": {
+    "gl-color-franchise-s1": {
+      "value": "#282c31",
+      "description": "Yeezy text colour",
+      "type": "color"
+    },
+    "gl-color-franchise-s2": {
+      "value": "#ecebdf",
+      "description": "Yeezy background colour",
+      "type": "color"
+    },
+    "gl-color-franchise-s3": {
+      "value": "#282c31",
+      "description": "DO NOT USE - This token does not apply to this theme",
+      "type": "color"
+    },
+    "gl-color-franchise-s4": {
+      "value": "#282c31",
+      "description": "DO NOT USE - This token does not apply to this theme",
+      "type": "color"
+    }
+  },
+  "icon": {
+    "gl-color-icon": {
+      "value": "#c3c3c3",
+      "description": "Default icon colour on default background",
+      "type": "color"
+    },
+    "gl-icon-color-inverse": {
+      "value": "#000000",
+      "description": "Icon color for inverse backgrounds",
+      "type": "color"
+    },
+    "gl-icon-color-error": {
+      "value": "#dd6868",
+      "description": "Icon color for error state",
+      "type": "color"
+    },
+    "gl-app-icon-color-deselected": {
+      "value": "#ffffff",
+      "description": "DO NOT USE - This token does not apply to this theme",
+      "type": "color"
+    },
+    "gl-app-icon-color-alternative": {
+      "value": "#ffffff",
+      "description": "Icon colour for close and back buttons",
+      "type": "color"
+    }
+  },
+  "text": {
+    "gl-app-shadow-textshadow-inverse-1": {
+      "value": {
+        "x": "3",
+        "y": "3",
+        "blur": "0",
+        "spread": "0",
+        "color": "rgba(0, 0, 0, 1)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    }
+  },
+  "utilities": {
+    "gl-overlay-color-background": {
+      "value": "rgba(0, 0, 0, 0.8)",
+      "description": "Default overlay color",
+      "type": "color"
+    }
+  },
+  "z_do_not_use": {
+    "gl-body-font-set-functional-1": {
+      "value": {
+        "description": "HOLA!",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "16px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-body-font-set-functional-2": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Medium",
+        "letterSpacing": "0px",
+        "lineHeight": "16px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-body-font-set-functional-3": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "16px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-body-font-set-functional-4": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "20px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    },
+    "gl-body-font-set-functional-5": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Medium",
+        "letterSpacing": "0px",
+        "lineHeight": "20px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    },
+    "gl-body-font-set-functional-6": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "20px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    },
+    "gl-body-font-set-functional-7": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "16px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "22px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "32px"
+      },
+      "type": "typography"
+    },
+    "gl-body-font-set-functional-8": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "16px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "22px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "32px"
+      },
+      "type": "typography"
+    },
+    "gl-body-font-set-functional-9": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "16px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "22px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "32px"
+      },
+      "type": "typography"
+    },
+    "gl-body-font-set-functional-10": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "18px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "24px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-body-font-set-functional-11": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "18px",
+        "fontWeight": "Medium",
+        "letterSpacing": "0px",
+        "lineHeight": "24px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-body-font-set-functional-12": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "18px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "24px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-body-font-set-functional-13": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "28px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "36px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "56px"
+      },
+      "type": "typography"
+    },
+    "gl-body-font-set-functional-14": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "28px",
+        "fontWeight": "Medium",
+        "letterSpacing": "0px",
+        "lineHeight": "36px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "56px"
+      },
+      "type": "typography"
+    },
+    "gl-body-font-set-functional-15": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "28px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "36px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "56px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-functional-1": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "18px",
+        "fontWeight": "Regular",
+        "letterSpacing": "1px",
+        "lineHeight": "24px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-functional-2": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "18px",
+        "fontWeight": "Bold",
+        "letterSpacing": "1px",
+        "lineHeight": "24px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-standard-3": {
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO",
+        "fontSize": "18px",
+        "fontWeight": "Regular",
+        "letterSpacing": "1px",
+        "lineHeight": "24px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-standard-4": {
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO",
+        "fontSize": "18px",
+        "fontWeight": "Bold",
+        "letterSpacing": "1px",
+        "lineHeight": "24px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-expressive-5": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "18px",
+        "fontWeight": "Cn Medium Italic",
+        "letterSpacing": "1px",
+        "lineHeight": "24px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-expressive-6": {
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO Cond",
+        "fontSize": "18px",
+        "fontWeight": "Bold",
+        "letterSpacing": "1px",
+        "lineHeight": "24px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-functional-7": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "24px",
+        "fontWeight": "Regular",
+        "letterSpacing": "2px",
+        "lineHeight": "28px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-standard-8": {
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO",
+        "fontSize": "24px",
+        "fontWeight": "Regular",
+        "letterSpacing": "2px",
+        "lineHeight": "28px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-standard-9": {
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO",
+        "fontSize": "24px",
+        "fontWeight": "Bold",
+        "letterSpacing": "2px",
+        "lineHeight": "28px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-expressive-10": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "24px",
+        "fontWeight": "Cn Medium Italic",
+        "letterSpacing": "2px",
+        "lineHeight": "28px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-expressive-11": {
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO Cond",
+        "fontSize": "24px",
+        "fontWeight": "Bold",
+        "letterSpacing": "2px",
+        "lineHeight": "28px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-functional-12": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "30px",
+        "fontWeight": "Regular",
+        "letterSpacing": "1.5px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "60px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-standard-13": {
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO",
+        "fontSize": "30px",
+        "fontWeight": "Regular",
+        "letterSpacing": "1.5px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "60px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-standard-14": {
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO",
+        "fontSize": "30px",
+        "fontWeight": "Bold",
+        "letterSpacing": "1.5px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "60px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-expressive-15": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "30px",
+        "fontWeight": "Cn Medium Italic",
+        "letterSpacing": "1.5px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "60px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-expressive-16": {
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO Cond",
+        "fontSize": "30px",
+        "fontWeight": "Bold",
+        "letterSpacing": "1.5px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "60px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-functional-17": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "40px",
+        "fontWeight": "Regular",
+        "letterSpacing": "2px",
+        "lineHeight": "40px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "80px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-standard-18": {
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO",
+        "fontSize": "40px",
+        "fontWeight": "Regular",
+        "letterSpacing": "2px",
+        "lineHeight": "40px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "80px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-standard-19": {
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO",
+        "fontSize": "40px",
+        "fontWeight": "Bold",
+        "letterSpacing": "2px",
+        "lineHeight": "40px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "80px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-expressive-20": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "40px",
+        "fontWeight": "Cn Medium Italic",
+        "letterSpacing": "2px",
+        "lineHeight": "40px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "80px"
+      },
+      "type": "typography"
+    },
+    "gl-heading-font-set-expressive-21": {
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO Cond",
+        "fontSize": "40px",
+        "fontWeight": "Bold",
+        "letterSpacing": "2px",
+        "lineHeight": "40px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "80px"
+      },
+      "type": "typography"
+    },
+    "gl-statement-font-set-standard-1": {
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO",
+        "fontSize": "18px",
+        "fontWeight": "Bold",
+        "letterSpacing": "7px",
+        "lineHeight": "24px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-statement-font-set-standard-2": {
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO",
+        "fontSize": "18px",
+        "fontWeight": "Regular",
+        "letterSpacing": "7px",
+        "lineHeight": "24px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-statement-font-set-functional-3": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "18px",
+        "fontWeight": "Regular",
+        "letterSpacing": "7px",
+        "lineHeight": "24px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-statement-font-set-standard-4": {
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO",
+        "fontSize": "36px",
+        "fontWeight": "Bold",
+        "letterSpacing": "7px",
+        "lineHeight": "44px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "72px"
+      },
+      "type": "typography"
+    },
+    "gl-statement-font-set-standard-5": {
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO",
+        "fontSize": "36px",
+        "fontWeight": "Regular",
+        "letterSpacing": "7px",
+        "lineHeight": "44px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "72px"
+      },
+      "type": "typography"
+    },
+    "gl-statement-font-set-functional-6": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "36px",
+        "fontWeight": "Bold",
+        "letterSpacing": "7px",
+        "lineHeight": "44px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "72px"
+      },
+      "type": "typography"
+    },
+    "gl-statement-font-set-functional-7": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "36px",
+        "fontWeight": "Regular",
+        "letterSpacing": "7px",
+        "lineHeight": "44px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "72px"
+      },
+      "type": "typography"
+    },
+    "gl-statement-font-set-standard-8": {
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO",
+        "fontSize": "42px",
+        "fontWeight": "Bold",
+        "letterSpacing": "9px",
+        "lineHeight": "50px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "84px"
+      },
+      "type": "typography"
+    },
+    "gl-statement-font-set-standard-9": {
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO",
+        "fontSize": "42px",
+        "fontWeight": "Regular",
+        "letterSpacing": "9px",
+        "lineHeight": "50px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "84px"
+      },
+      "type": "typography"
+    },
+    "gl-statement-font-set-functional-10": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "42px",
+        "fontWeight": "Bold",
+        "letterSpacing": "9px",
+        "lineHeight": "50px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "84px"
+      },
+      "type": "typography"
+    },
+    "gl-statement-font-set-functional-11": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "42px",
+        "fontWeight": "Regular",
+        "letterSpacing": "9px",
+        "lineHeight": "50px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "84px"
+      },
+      "type": "typography"
+    },
+    "gl-tag-font-set-functional-1": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Bold",
+        "letterSpacing": "2px",
+        "lineHeight": "16px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-tag-font-set-functional-2": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Regular",
+        "letterSpacing": "2px",
+        "lineHeight": "16px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-tag-font-set-functional-3": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Cn Medium Italic",
+        "letterSpacing": "2px",
+        "lineHeight": "16px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-app-heading-font-set-functional-1": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "24px",
+        "fontWeight": "Cn Medium Italic",
+        "letterSpacing": "0px",
+        "lineHeight": "28px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-app-heading-font-set-functional-4": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "24px",
+        "fontWeight": "Medium",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-app-statement-font-set-standard-2": {
+      "value": {
+        "description": "",
+        "fontFamily": "adineue PRO",
+        "fontSize": "20px",
+        "fontWeight": "Bold",
+        "letterSpacing": "7px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "40px"
+      },
+      "type": "typography"
+    },
+    "gl-badge-font-set-functional-1": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Italic",
+        "letterSpacing": "0px",
+        "lineHeight": "20px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    },
+    "gl-button-font-set-functional-1": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Bold",
+        "letterSpacing": "2px",
+        "lineHeight": "20px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    },
+    "gl-button-font-set-functional-2": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Bold",
+        "letterSpacing": "2px",
+        "lineHeight": "20px",
+        "textDecoration": "underline",
+        "textCase": "uppercase",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    },
+    "gl-link-font-set-functional-1": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "20px",
+        "textDecoration": "underline",
+        "textCase": "none",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    },
+    "gl-link-font-set-functional-2": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "16px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "22px",
+        "textDecoration": "underline",
+        "textCase": "none",
+        "paragraphSpacing": "32px"
+      },
+      "type": "typography"
+    },
+    "gl-link-font-set-functional-3": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "18px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "24px",
+        "textDecoration": "underline",
+        "textCase": "none",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-app-body-font-set-functional-1": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "16px",
+        "textDecoration": "line-through",
+        "textCase": "none",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-app-body-font-set-functional-2": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "20px",
+        "textDecoration": "line-through",
+        "textCase": "none",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    },
+    "gl-app-body-font-set-functional-3": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "16px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "32px"
+      },
+      "type": "typography"
+    },
+    "gl-app-body-font-set-functional-4": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "16px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "32px"
+      },
+      "type": "typography"
+    },
+    "gl-app-tag-font-set-functional-1": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Regular",
+        "letterSpacing": "1px",
+        "lineHeight": "16px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-app-tag-font-set-functional-2": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Medium",
+        "letterSpacing": "1px",
+        "lineHeight": "16px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-app-tag-font-set-functional-3": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Regular",
+        "letterSpacing": "1px",
+        "lineHeight": "16px",
+        "textDecoration": "line-through",
+        "textCase": "uppercase",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-app-tag-font-set-functional-4": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Regular",
+        "letterSpacing": "1px",
+        "lineHeight": "20px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    },
+    "gl-app-tag-font-set-functional-5": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Medium",
+        "letterSpacing": "1px",
+        "lineHeight": "20px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    },
+    "gl-app-statement-font-set-functional-1": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "18px",
+        "fontWeight": "Medium",
+        "letterSpacing": "2px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-app-statement-font-set-functional-3": {
+      "value": {
+        "description": "",
+        "fontFamily": "Denton",
+        "fontSize": "18px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "24px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-app-statement-font-set-functional-4": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "24px",
+        "fontWeight": "Medium",
+        "letterSpacing": "2px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-app-statement-font-set-functional-5": {
+      "value": {
+        "description": "",
+        "fontFamily": "Denton",
+        "fontSize": "24px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-app-statement-font-set-functional-6": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "32px",
+        "fontWeight": "Medium",
+        "letterSpacing": "2px",
+        "lineHeight": "40px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "64px"
+      },
+      "type": "typography"
+    },
+    "gl-app-statement-font-set-expressive-3": {
+      "value": {
+        "description": "",
+        "fontFamily": "Denton",
+        "fontSize": "18px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "24px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-app-statement-font-set-expressive-5": {
+      "value": {
+        "description": "",
+        "fontFamily": "Denton",
+        "fontSize": "24px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-app-statement-font-set-expressive-7": {
+      "value": {
+        "description": "",
+        "fontFamily": "Denton",
+        "fontSize": "32px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "40px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "64px"
+      },
+      "type": "typography"
+    },
+    "gl-app-heading-font-set-functional-2": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "18px",
+        "fontWeight": "Medium",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-app-heading-font-set-expressive-3": {
+      "value": {
+        "description": "",
+        "fontFamily": "Denton",
+        "fontSize": "18px",
+        "fontWeight": "Medium",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-app-heading-font-set-expressive-4": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "24px",
+        "fontWeight": "Medium",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-app-heading-font-set-expressive-5": {
+      "value": {
+        "description": "",
+        "fontFamily": "Denton",
+        "fontSize": "24px",
+        "fontWeight": "Medium",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-app-link-font-set-functional-1": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "20px",
+        "textDecoration": "underline",
+        "textCase": "none",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    }
+  },
+  "z_do_not_use/": {
+    "gl-color-border-navigational-hover": {
+      "value": "#6d6d6d",
+      "description": "Default border color on hover user interaction for interface elements related to user navigation",
+      "type": "color"
+    },
+    "gl-color-disabled": {
+      "value": "#6d6d6d",
+      "description": "Default color to use for disabled / non-interactable elements",
+      "type": "color"
+    },
+    "gl-button-background-hover": {
+      "value": "#000000",
+      "description": "Default background color of buttons on hover user interaction",
+      "type": "color"
+    },
+    "gl-button-color-border-primary": {
+      "value": "#000000",
+      "description": "Default border color for primary buttons",
+      "type": "color"
+    },
+    "gl-button-color-border-secondary-inverse": {
+      "value": "#ffffff",
+      "description": "Inverse border color for secondary buttons over non-default or busy backgrounds",
+      "type": "color"
+    },
+    "gl-button-color-border-secondary": {
+      "value": "#000000",
+      "description": "Default hover border color for secondary buttons over non-default or busy backgrounds",
+      "type": "color"
+    },
+    "gl-callout-color-background": {
+      "value": "#e9ecef",
+      "description": "Default background color for the lowest urgency level callout",
+      "type": "color"
+    }
+  },
+  "z_do_not_use/background": {
+    "gl-color-background-disabled": {
+      "value": "#6d6d6d",
+      "description": "Default background color for disabled interface elements",
+      "type": "color"
+    },
+    "gl-color-background-membership": {
+      "value": "#0081c7",
+      "description": "Default background color for membership communication and offers",
+      "type": "color"
+    },
+    "gl-color-background-membership-hover": {
+      "value": "#0081c7",
+      "description": "Default hover background color for membership communication and offers",
+      "type": "color"
+    },
+    "gl-color-background-alternative-hover": {
+      "value": "#ffffff",
+      "description": "Default alternative hover background color",
+      "type": "color"
+    },
+    "gl-color-background-highlight": {
+      "value": "#ede734",
+      "description": "Alternative background color to create vibrancy and interest over the default background color; used for customer acqusition",
+      "type": "color"
+    },
+    "gl-color-background-alternative-highlight": {
+      "value": "#2ada71",
+      "description": "Alternative background color to create vibrancy and interest over other colored interface elements",
+      "type": "color"
+    },
+    "gl-color-sale-background": {
+      "value": "#dd6868",
+      "description": "Default background color for promotional interface elements",
+      "type": "color"
+    },
+    "gl-color-background-transparent": {
+      "value": "rgba(255, 255, 255, 0)",
+      "description": "Alternative background color for invisible interface elements; use it for technical reasons mainly",
+      "type": "color"
+    },
+    "gl-productcard-media-color-background": {
+      "value": "#e9ecef",
+      "description": "Default background color for product cards media section",
+      "type": "color"
+    }
+  },
+  "z_do_not_use/border": {
+    "gl-color-border-alternative-inverse": {
+      "value": "rgba(255, 255, 255, 0)",
+      "description": "Alternative border color for interface elements where higher contrast required over non-default background",
+      "type": "color"
+    },
+    "gl-color-border-hover": {
+      "value": "#000000",
+      "description": "Default border color for interface elements on hover user interaction",
+      "type": "color"
+    },
+    "gl-color-border-alternative-active": {
+      "value": "#000000",
+      "description": "Alternative border color for active interface elements; used especially for selected states where background color doesn&#x27;t change",
+      "type": "color"
+    },
+    "gl-color-border-navigational": {
+      "value": "#c3c3c3",
+      "description": "Default border color for interface elements related to user navigation",
+      "type": "color"
+    },
+    "gl-color-border-navigational-inverse": {
+      "value": "#ffffff",
+      "description": "Default border color for interface elements related to user navigation on non-default or busy backgrounds",
+      "type": "color"
+    },
+    "gl-color-border-functional": {
+      "value": "#6d6d6d",
+      "description": "Default border color for interface elements where user interaction happens in place",
+      "type": "color"
+    },
+    "gl-color-border-disabled": {
+      "value": "#6d6d6d",
+      "description": "Default border color for disabled / non-interactable elements",
+      "type": "color"
+    },
+    "gl-color-success-border": {
+      "value": "#00aa55",
+      "description": "Alternative border color to use for successful user interaction around interface elements",
+      "type": "color"
+    },
+    "gl-color-border-membership": {
+      "value": "#0081c7",
+      "description": "Default border color to use for user membership interaction around interface elements",
+      "type": "color"
+    },
+    "gl-color-border-membership-inverse": {
+      "value": "#0081c7",
+      "description": "Alternative border color for membership interface elements where higher contrast required over non-default background",
+      "type": "color"
+    },
+    "gl-color-border-membership-hover": {
+      "value": "#0081c7",
+      "description": "Default border color to use for user membership hover interaction around interface elements",
+      "type": "color"
+    }
+  },
+  "z_do_not_use/borders": {
+    "gl-color-border-active": {
+      "value": "#000000",
+      "description": "Default border color for active interface elements; used especially for selected states where background color doesn&#x27;t change",
+      "type": "color"
+    }
+  },
+  "z_do_not_use/brand": {
+    "gl-color-brand-p1": {
+      "value": "#000000",
+      "description": "",
+      "type": "color"
+    },
+    "gl-color-brand-p2": {
+      "value": "#ffffff",
+      "description": "",
+      "type": "color"
+    },
+    "gl-color-brand-p3": {
+      "value": "#0a3cff",
+      "description": "",
+      "type": "color"
+    }
+  },
+  "z_do_not_use/bright": {
+    "gl-color-bright-s1": {
+      "value": "#ede734",
+      "description": "",
+      "type": "color"
+    },
+    "gl-color-bright-s2": {
+      "value": "#dd6868",
+      "description": "",
+      "type": "color"
+    },
+    "gl-color-bright-s3": {
+      "value": "#da1a7b",
+      "description": "",
+      "type": "color"
+    },
+    "gl-color-bright-s4": {
+      "value": "#0071ae",
+      "description": "",
+      "type": "color"
+    },
+    "gl-color-bright-s5": {
+      "value": "#00a2a2",
+      "description": "",
+      "type": "color"
+    },
+    "gl-color-bright-s6": {
+      "value": "#2ada71",
+      "description": "",
+      "type": "color"
+    }
+  },
+  "z_do_not_use/callout": {
+    "gl-callout-color-background-alternative": {
+      "value": "#f5f5e5",
+      "description": "Alternative background color for the lowest urgency level callout",
+      "type": "color"
+    },
+    "gl-callout-color-border-urgent": {
+      "value": "rgba(255, 255, 255, 0)",
+      "description": "Border color of the urgent callout to create contrast from the background",
+      "type": "color"
+    }
+  },
+  "z_do_not_use/calltoaction": {
+    "gl-button-color-border-primary-inverse": {
+      "value": "#ffffff",
+      "description": "Alternative border color for primary buttons over non-default or busy backgrounds to create depth",
+      "type": "color"
+    },
+    "gl-button-color-border-secondary-hover": {
+      "value": "#000000",
+      "description": "Default hover border color for secondary buttons over non-default or busy backgrounds",
+      "type": "color"
+    },
+    "gl-button-color-border-secondary-hoverinverse": {
+      "value": "#ffffff",
+      "description": "Default hover border color for secondary buttons over non-default or busy backgrounds. To create dark interface elements and sections over the default border color when hovering.",
+      "type": "color"
+    }
+  },
+  "z_do_not_use/dropdowns": {
+    "gl-dropdown-color-background-hover": {
+      "value": "#e9ecef",
+      "description": "Color for the individual row elements within the dropdown on hover user interaction",
+      "type": "color"
+    }
+  },
+  "z_do_not_use/grey": {
+    "gl-color-grey-100": {
+      "value": "#e9ecef",
+      "description": "",
+      "type": "color"
+    },
+    "gl-color-grey-400": {
+      "value": "#c3c3c3",
+      "description": "",
+      "type": "color"
+    },
+    "gl-color-grey-500": {
+      "value": "#a0a0a0",
+      "description": "",
+      "type": "color"
+    },
+    "gl-color-grey-700": {
+      "value": "#6d6d6d",
+      "description": "",
+      "type": "color"
+    },
+    "gl-color-grey-850": {
+      "value": "#242424",
+      "description": "",
+      "type": "color"
+    },
+    "gl-color-grey-900": {
+      "value": "#161616",
+      "description": "",
+      "type": "color"
+    }
+  },
+  "z_do_not_use/icon": {
+    "gl-icon-color-hover": {
+      "value": "#6d6d6d",
+      "description": "Default icon color on hover user interaction",
+      "type": "color"
+    },
+    "gl-icon-color-success": {
+      "value": "#00aa55",
+      "description": "Alternative icon color to strenghten success messagery",
+      "type": "color"
+    }
+  },
+  "z_do_not_use/membership": {
+    "gl-color-membership-s1": {
+      "value": "#0081c7",
+      "description": "",
+      "type": "color"
+    },
+    "gl-color-membership-s2": {
+      "value": "#a39582",
+      "description": "",
+      "type": "color"
+    },
+    "gl-color-membership-s3": {
+      "value": "#a7c1b9",
+      "description": "",
+      "type": "color"
+    },
+    "gl-color-membership-s4": {
+      "value": "#b56971",
+      "description": "",
+      "type": "color"
+    },
+    "gl-color-membership-s5": {
+      "value": "#6d8194",
+      "description": "",
+      "type": "color"
+    }
+  },
+  "z_do_not_use/neutral": {
+    "gl-color-neutral-s1": {
+      "value": "#f5f5e5",
+      "description": "",
+      "type": "color"
+    },
+    "gl-color-neutral-s2": {
+      "value": "#a39582",
+      "description": "",
+      "type": "color"
+    },
+    "gl-color-neutral-s3": {
+      "value": "#b56971",
+      "description": "",
+      "type": "color"
+    },
+    "gl-color-neutral-s4": {
+      "value": "#a7c1b9",
+      "description": "",
+      "type": "color"
+    },
+    "gl-color-neutral-s5": {
+      "value": "#6d8194",
+      "description": "",
+      "type": "color"
+    },
+    "gl-color-neutral-s6": {
+      "value": "#3a3e4f",
+      "description": "",
+      "type": "color"
+    }
+  },
+  "z_do_not_use/text": {
+    "gl-color-text-disabled": {
+      "value": "#6d6d6d",
+      "description": "Default color to communicate disabled state with text",
+      "type": "color"
+    },
+    "gl-color-text-hover": {
+      "value": "#6d6d6d",
+      "description": "Default color to communicate interaction of a text element over default background color",
+      "type": "color"
+    },
+    "gl-color-text-hover-alternative": {
+      "value": "#6d6d6d",
+      "description": "Default color to communicate interaction of a text element over alternative/dark background color",
+      "type": "color"
+    },
+    "gl-color-text-membership": {
+      "value": "#0081c7",
+      "description": "Default color to communicate membership-related messages with the users",
+      "type": "color"
+    },
+    "gl-placeholder-color-text": {
+      "value": "#6d6d6d",
+      "description": "Text color for our interactable interface elements where text aid needed for the best results",
+      "type": "color"
+    },
+    "gl-label-color-text": {
+      "value": "#6d6d6d",
+      "description": "Default text color for labels over the default background, regardless of the position",
+      "type": "color"
+    }
+  },
+  "z_do_not_use/timers": {
+    "gl-timer-color-background": {
+      "value": "rgba(255, 255, 255, 0)",
+      "description": "Background color for the timer to create contrast with the countdown progress element",
+      "type": "color"
+    },
+    "gl-timer-color-progress-background": {
+      "value": "#6d6d6d",
+      "description": "Background color of the time progress to communicate important dates for the users",
+      "type": "color"
+    }
+  },
+  "z_do_not_use/tooltips": {
+    "gl-tooltip-color-background": {
+      "value": "#e9ecef",
+      "description": "Background color for the tooltip to create a higher contrast over the different background colors",
+      "type": "color"
+    }
+  },
+  "z_do_not_use/utility": {
+    "gl-color-transparent": {
+      "value": "rgba(255, 255, 255, 0)",
+      "description": "",
+      "type": "color"
+    },
+    "gl-color-black-080": {
+      "value": "rgba(0, 0, 0, 0.8)",
+      "description": "",
+      "type": "color"
+    }
+  },
+  "z_do_not_use/validation": {
+    "gl-color-error": {
+      "value": "#dd6868",
+      "description": "Default color to use for error sates of interface elements",
+      "type": "color"
+    },
+    "gl-color-success": {
+      "value": "#00aa55",
+      "description": "Default color to use for success states of interface elements",
+      "type": "color"
+    },
+    "gl-color-warning": {
+      "value": "#d98916",
+      "description": "A color to communicate a warning with the users",
+      "type": "color"
+    }
+  },
+  "default": {
+    "gl-spacing-0000": {
+      "value": "0px",
+      "description": "",
+      "type": "spacing"
+    },
+    "gl-spacing-0025": {
+      "value": "2px",
+      "description": "",
+      "type": "spacing"
+    },
+    "gl-spacing-0050": {
+      "value": "4px",
+      "description": "",
+      "type": "spacing"
+    },
+    "gl-spacing-0100": {
+      "value": "8px",
+      "description": "",
+      "type": "spacing"
+    },
+    "gl-spacing-0150": {
+      "value": "12px",
+      "description": "",
+      "type": "spacing"
+    },
+    "gl-spacing-0200": {
+      "value": "16px",
+      "description": "",
+      "type": "spacing"
+    },
+    "gl-spacing-0300": {
+      "value": "24px",
+      "description": "",
+      "type": "spacing"
+    },
+    "gl-spacing-0400": {
+      "value": "32px",
+      "description": "",
+      "type": "spacing"
+    },
+    "gl-spacing-0600": {
+      "value": "48px",
+      "description": "",
+      "type": "spacing"
+    },
+    "gl-spacing-0800": {
+      "value": "64px",
+      "description": "",
+      "type": "spacing"
+    },
+    "gl-spacing-1000": {
+      "value": "80px",
+      "description": "",
+      "type": "spacing"
+    },
+    "gl-spacing-1200": {
+      "value": "96px",
+      "description": "",
+      "type": "spacing"
+    },
+    "gl-spacing-1500": {
+      "value": "120px",
+      "description": "",
+      "type": "spacing"
+    }
+  },
+  "body": {
+    "gl-font-set-body-100-regular": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "16px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-body-100-bold": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "16px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-body-100-regular-struck": {
+      "value": {
+        "description": "DO NOT USE - This token does not apply to this theme",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "16px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-body-200-regular": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "20px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-body-200-bold": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "20px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-body-200-regular-struck": {
+      "value": {
+        "description": "DO NOT USE - This token does not apply to this theme",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "20px",
+        "textDecoration": "line-through",
+        "textCase": "none",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-body-200-bold-underline": {
+      "value": {
+        "description": "DO NOT USE - This token does not apply to this theme",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "20px",
+        "textDecoration": "underline",
+        "textCase": "none",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-body-300-regular": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "16px",
+        "fontWeight": "Regular",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "32px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-body-300-bold": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "16px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "32px"
+      },
+      "type": "typography"
+    }
+  },
+  "tag": {
+    "gl-font-set-tag-100-regular": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Regular",
+        "letterSpacing": "1px",
+        "lineHeight": "16px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-tag-100-bold": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Medium",
+        "letterSpacing": "1px",
+        "lineHeight": "16px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-tag-100-regular-italic": {
+      "value": {
+        "description": "DO NOT USE - This token does not apply to this theme",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Regular",
+        "letterSpacing": "1px",
+        "lineHeight": "16px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-tag-100-regular-struck": {
+      "value": {
+        "description": "DO NOT USE - This token does not apply to this theme",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "12px",
+        "fontWeight": "Regular",
+        "letterSpacing": "1px",
+        "lineHeight": "16px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "24px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-tag-200-regular": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Regular",
+        "letterSpacing": "1px",
+        "lineHeight": "20px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-tag-200-bold": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "14px",
+        "fontWeight": "Medium",
+        "letterSpacing": "1px",
+        "lineHeight": "20px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "28px"
+      },
+      "type": "typography"
+    }
+  },
+  "statement": {
+    "gl-font-set-statement-100": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "18px",
+        "fontWeight": "Medium",
+        "letterSpacing": "2px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-statement-100-alternative": {
+      "value": {
+        "description": "",
+        "fontFamily": "Denton",
+        "fontSize": "18px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "24px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-statement-200": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "24px",
+        "fontWeight": "Medium",
+        "letterSpacing": "2px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-statement-200-alternative": {
+      "value": {
+        "description": "",
+        "fontFamily": "Denton",
+        "fontSize": "24px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-statement-300": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "32px",
+        "fontWeight": "Medium",
+        "letterSpacing": "2px",
+        "lineHeight": "40px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "64px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-statement-300-alternative": {
+      "value": {
+        "description": "",
+        "fontFamily": "Denton",
+        "fontSize": "32px",
+        "fontWeight": "Bold",
+        "letterSpacing": "0px",
+        "lineHeight": "40px",
+        "textDecoration": "none",
+        "textCase": "none",
+        "paragraphSpacing": "64px"
+      },
+      "type": "typography"
+    }
+  },
+  "heading": {
+    "gl-font-set-heading-100": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "18px",
+        "fontWeight": "Medium",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-heading-100-alternative": {
+      "value": {
+        "description": "",
+        "fontFamily": "Denton",
+        "fontSize": "18px",
+        "fontWeight": "Medium",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "36px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-heading-200": {
+      "value": {
+        "description": "",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "24px",
+        "fontWeight": "Medium",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-heading-200-alternative": {
+      "value": {
+        "description": "",
+        "fontFamily": "Denton",
+        "fontSize": "24px",
+        "fontWeight": "Medium",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    },
+    "gl-font-set-heading-400": {
+      "value": {
+        "description": "DO NOT USE - This token does not apply to this theme",
+        "fontFamily": "AdihausDIN",
+        "fontSize": "24px",
+        "fontWeight": "Medium",
+        "letterSpacing": "0px",
+        "lineHeight": "32px",
+        "textDecoration": "none",
+        "textCase": "uppercase",
+        "paragraphSpacing": "48px"
+      },
+      "type": "typography"
+    }
+  }
+}

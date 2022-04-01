@@ -1,0 +1,15 @@
+{
+  "text": { 
+    "gl-app-shadow-textshadow-inverse-1": { 
+      "value": {
+        "x": "3",
+        "y": "3",
+        "blur": "0",
+        "spread": "0",
+        "color": "rgba(0, 0, 0, 1)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "default": { 
+    "gl-spacing-0000": {
+      "value": "0px",
+      "description": "",
+      "type": "spacing"
+    },  
+    "gl-spacing-0025": {
+      "value": "2px",
+      "description": "",
+      "type": "spacing"
+    },  
+    "gl-spacing-0050": {
+      "value": "4px",
+      "description": "",
+      "type": "spacing"
+    },  
+    "gl-spacing-0100": {
+      "value": "8px",
+      "description": "",
+      "type": "spacing"
+    },  
+    "gl-spacing-0150": {
+      "value": "12px",
+      "description": "",
+      "type": "spacing"
+    },  
+    "gl-spacing-0200": {
+      "value": "16px",
+      "description": "",
+      "type": "spacing"
+    },  
+    "gl-spacing-0300": {
+      "value": "24px",
+      "description": "",
+      "type": "spacing"
+    },  
+    "gl-spacing-0400": {
+      "value": "32px",
+      "description": "",
+      "type": "spacing"
+    },  
+    "gl-spacing-0600": {
+      "value": "48px",
+      "description": "",
+      "type": "spacing"
+    },  
+    "gl-spacing-0800": {
+      "value": "64px",
+      "description": "",
+      "type": "spacing"
+    },  
+    "gl-spacing-1000": {
+      "value": "80px",
+      "description": "",
+      "type": "spacing"
+    },  
+    "gl-spacing-1200": {
+      "value": "96px",
+      "description": "",
+      "type": "spacing"
+    },  
+    "gl-spacing-1500": {
+      "value": "120px",
+      "description": "",
+      "type": "spacing"
+    }  
+  }
+}
